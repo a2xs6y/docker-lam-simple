@@ -1,0 +1,9 @@
+# игнорировать всё
+*
+
+# кроме
+!.gitignore
+!docker-compose.yml
+!docker-compose-init.yml
+!.env.example
+!README.md
